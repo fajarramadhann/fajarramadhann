@@ -6,7 +6,7 @@
 
 👨‍🎓 &nbsp;I am a vocational high school student, I am 4 years in school and currently I am in 11th grade.\
 💡 &nbsp;I like to explore new technologies and create a website.\
-🌱 &nbsp;I'm on track for learning more about Front End Web, and Pentesting.\
+🌱 &nbsp;I'm on track for learning more about Front End Web, and Pentesting.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
