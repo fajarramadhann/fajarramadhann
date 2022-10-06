@@ -1,5 +1,7 @@
 # 👨🏻‍💻 About Me:
-## Introduction<br><br>Hi, my name is Fajar Ramadhan, but you can call me Fajar, and  I like to explore new technologies. <br><br>👨‍🎓 I am a high school student who will graduate in 2025<br>🌱I'm currently learning about Front End Development and penetration testing.<br>
+## Introduction
+
+Hi, my name is Fajar Ramadhan, but you can call me Fajar, and  I like to explore new technologies. <br><br>👨‍🎓 I am a high school student who will graduate in 2025<br>🌱I'm currently learning about Front End Development and penetration testing.<br>
 
 
 ## 🌐 Socials:
