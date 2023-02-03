@@ -1,4 +1,31 @@
 # 👨🏻‍💻 About Me:
+
+```json
+{
+  "fullname": "Fajar Ramadhan",
+  "country": "Indonesia",
+  "about": "Someone who is enthusiastic about learning how to create good and efficient applications",
+  "language": "Native Indonesian and passive English",
+  "learning_tech": {
+      "front_end": [
+          "VueJS",
+          "TailwindCSS",
+      ],
+      "back_end": [
+          "Express Js",
+          "Laravel"
+      ],
+      "database": [
+          "Mysql",
+          "MongoDB"
+      ],
+  },
+}
+```
+
+
+
+
 ## Introduction
 
 Hi, my name is Fajar Ramadhan, but you can call me Fajar, and  I like to explore new technologies. <br><br>👨‍🎓 I am a high school student who will graduate in 2025<br>🌱I'm currently learning DevOps and penetration testing.<br>
