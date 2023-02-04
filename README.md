@@ -4,7 +4,7 @@
 {
   "fullname": "Fajar Ramadhan",
   "country": "Indonesia",
-  "about": "Someone who is enthusiastic about learning how to create good and efficient applications",
+  "about": "-",
   "language": "Native Indonesian and passive English",
   "learning_tech": {
       "front_end": [
