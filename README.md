@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Fajarr</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarramadhann&label=Profile%20views&color=0e75b6&style=flat" alt="fajarramadhann" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fajarramadhann" alt="fajarramadhann" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/0xlog1c_" target="blank"><img src="https://img.shields.io/twitter/follow/0xlog1c_?logo=twitter&style=for-the-badge" alt="0xlog1c_" /></a> </p>
+
+- 🌱 I’m currently learning **Backend Development, System administrator and Cyber Sec**
+
+- 👨‍💻 All of my projects are available at [fajarrmdhn.me](fajarrmdhn.me)
+
+- 📫 How to reach me **fajarramadhannn@proton.me**
+
+- ⚡ Fun fact **I like about Linux**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
