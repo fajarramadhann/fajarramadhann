@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Development, System administrator and Cyber Sec**
 
-- 👨‍💻 All of my projects are available at [fajarrmdhn.me](fajarrmdhn.me)
+- 👨‍💻 All of my projects are available at [fajarr.tech](fajarr.tech)
 
 - 📫 How to reach me **fajarramadhannn@proton.me**
 
