@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xlog1c_" target="blank"><img src="https://img.shields.io/twitter/follow/0xlog1c_?logo=twitter&style=for-the-badge" alt="0xlog1c_" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development, System administrator and Cyber Sec**
+- 🌱 I’m currently learning **Fullstack Development and Web3 Development**
 
 - 👨‍💻 All of my projects are available at [fajarr.tech](fajarr.tech)
 
