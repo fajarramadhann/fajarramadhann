@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm xfajarr</h1>
-<h3 align="center">I am a student, now an intern</h3>
+<h3 align="center">I am a student(soon will be graduate on vocational high school), now i'm grinding in any web3 hackathon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarramadhann&label=Profile%20views&color=0e75b6&style=flat" alt="fajarramadhann" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fajarramadhann" alt="fajarramadhann" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/fajarr0x" target="blank"><img src="https://img.shields.io/twitter/follow/0xlog1c_?logo=twitter&style=for-the-badge" alt="0xlog1c_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fajarr0x" target="blank"><img src="https://img.shields.io/twitter/follow/0xlog1c_?logo=twitter&style=for-the-badge" alt="fajarr0x" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack Development and Web3 Development**
+- 🌱 I’m currently learning **Fullstack Web3 Development and Smart Contract Development**
 
 - 👨‍💻 All of my projects are available at [fajarr.tech](fajarr.tech)
 
 - 📫 How to reach me **fajarramadhannn@proton.me**
-
-- ⚡ Fun fact **I like about Linux**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
