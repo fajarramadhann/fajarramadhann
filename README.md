@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm xfajarr</h1>
-<h3 align="center">I am a student(soon will be graduate on vocational high school), now i'm grinding in any web3 hackathon</h3>
+<h3 align="center">I am a fresh graduate vocational high school, now i'm grinding in any web3 hackathon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarramadhann&label=Profile%20views&color=0e75b6&style=flat" alt="fajarramadhann" /> </p>
 
